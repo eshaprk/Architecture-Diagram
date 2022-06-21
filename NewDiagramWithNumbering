@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T18:43:12.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="1hilcDY9GpO9iR6suR6Y" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T20:42:12.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="2WH4yQ0xrhL-LEpsigE6" version="20.0.1" type="github">
   <diagram id="FDV5ZavruCUlSoL0Ouls" name="Page-1">
     <mxGraphModel dx="8513" dy="2627" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -36,9 +36,6 @@
         </mxCell>
         <mxCell id="hFA-Pch-7Rj4HUBxwEXd-19" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1228.6" y="1762" width="217" height="217" as="geometry" />
-        </mxCell>
-        <mxCell id="hFA-Pch-7Rj4HUBxwEXd-20" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2212" y="274" width="360" height="149" as="geometry" />
         </mxCell>
         <mxCell id="hFA-Pch-7Rj4HUBxwEXd-23" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.35;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=open;startFill=0;strokeWidth=7;" edge="1" parent="1" source="hFA-Pch-7Rj4HUBxwEXd-26" target="hFA-Pch-7Rj4HUBxwEXd-27">
           <mxGeometry relative="1" as="geometry" />
@@ -88,8 +85,8 @@
         <mxCell id="hFA-Pch-7Rj4HUBxwEXd-51" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-758" y="132" width="380" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="hFA-Pch-7Rj4HUBxwEXd-53" value="&lt;b style=&quot;font-size: 42px;&quot;&gt;VNET 1&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;dashed=1;fontSize=42;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2188" y="429" width="330" height="93" as="geometry" />
+        <mxCell id="hFA-Pch-7Rj4HUBxwEXd-53" value="&lt;b style=&quot;font-size: 42px;&quot;&gt;Subscription&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;dashed=1;fontSize=42;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1948" y="229" width="330" height="182" as="geometry" />
         </mxCell>
         <mxCell id="hFA-Pch-7Rj4HUBxwEXd-54" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=28;strokeWidth=7;startArrow=open;startFill=0;" edge="1" parent="1" source="hFA-Pch-7Rj4HUBxwEXd-55" target="hFA-Pch-7Rj4HUBxwEXd-12">
           <mxGeometry relative="1" as="geometry" />
